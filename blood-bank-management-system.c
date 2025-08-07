@@ -1,7 +1,10 @@
 /*
- * Program Name        : Blood Book Management System
- * Developers          : Md Ahad Uz Zaman Khan, Aditya Shil
- * Last Modified Date  : 2025-08-07
+ > Program Name        : Blood Book Management System
+ > Developers          : Md. Rakibul Islam Sagor (2522028042)
+                         Chiranjeet Sarkar Amit ()
+                         Md. Zahidul Haque ()
+                         Kaushik Sharma ()
+ > Last Modified Date  : 08-08-2025
  */
 
 #include <stdio.h>
